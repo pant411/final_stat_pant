@@ -1,0 +1,15 @@
+6210501001_others
+GPP_6210501001_Visualization.xlsx ---> visualization
+6210501001_final_project_part_3_3_baysian.xlsx ---> คำนวน Bayes Classification ใน part 3.2
+fill_data_ayutthaya.ipynb,fill_data_lopburi.ipynb,fill_data_singburi.ipynb ---> ทำ regression เพื่อเติมข้อมูลของจังหวัดพระนครศรีอยุธยา ลพบุรี สิงห์บุรี
+part1_feature_ayth.ipynb,part1_feature_lop.ipynb,part1_feature_sing.ipynb ---> ทำ feature selection ใน part 1 โดยจะแยกไฟล์ตามจังหวัดที่ได้รับมอบหมาย
+part1_dimen_ayth.ipynb,part1_dimen_lop.ipynb,part1_dimen_sing.ipynb ---> ทำ dimension ใน part 1 โดยจะแยกไฟล์ตามจังหวัดที่ได้รับมอบหมาย
+part2_clustering.ipynb ---> จัดแนก cluster ใน part 2
+part3_1_featureANDall.ipynb,part3_1_RealFactor.ipynb ---> คำนวณ part 3.1
+part3_2_logistic.ipynb ---> คำนวณ part 3.2
+part4_time_series_life.ipynb ---> ทำนาย Arima Model ของอายุขัย
+part4_time_series_mobile.ipynb ---> ทำนาย Arima Model ของจำนวนผู้ใช้งานโทรศัพท์
+
+6210501001_data
+Folder process_data ---> เก็บข้อมูลที่ผ่านการจัดตารางใหม่
+Folder raw_data ---> ข้อมูลที่นำมาใช้ในการทำรายงาน
